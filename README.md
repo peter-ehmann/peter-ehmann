@@ -2,11 +2,11 @@
 
 - 👀 I’m interested in data science projects in precision medicine and biomedical research
 - 🌱 I'm primarily an R programmer with some Python experience
-- 🏢 Work: Regeneron Pharmaceuticals (since 2020)
-- 🍎 Graduate School: Rutgers University (2020, Data Science MS)
-- 🍎 Graduate School: Rutgers University (2018, Applied Physiology MS)
-- 🍏 Undergraduate: University of Colorado (2015, Integrative Physiology BA)
-- 🌟 Hobbies: Hiking 🥾, Biking 🚴, Snowboarding 🏂, Golf 🏌️, Music 🎸
-- 🐶 Pets: 🐕 🦮 🐈 🐈‍⬛ 🦎
+- 🏢 Regeneron Pharmaceuticals (since 2020)
+- 🍎 Rutgers University (2020, Data Science MS)
+- 🍎 Rutgers University (2018, Applied Physiology MS)
+- 🍏 University of Colorado (2015, Integrative Physiology BA)
+- 🌟 Hiking 🥾, Biking 🚴, Snowboarding 🏂, Golf 🏌️, Music 🎸
+- 🐕 🦮 🐈 🐈‍⬛ 🦎
 - 🌐 Website: In progress
-- 📫 Email: [pehmann1@gmail.com](pehmann1@gmail.com)
+- 📫 [pehmann1@gmail.com](pehmann1@gmail.com)
