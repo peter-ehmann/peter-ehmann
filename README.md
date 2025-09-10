@@ -6,7 +6,7 @@
 - 🍎 Rutgers University (2020, Data Science MS)
 - 🍎 Rutgers University (2018, Applied Physiology MS)
 - 🍏 University of Colorado (2015, Integrative Physiology BA)
-- 🌟 Hiking 🥾, Biking 🚴, Snowboarding 🏂, Golf 🏌️, Music 🎸
-- 🐕 🦮 🐈 🐈‍⬛ 🦎
-- 🌐 Website: In progress
-- 📫 [pehmann1@gmail.com](pehmann1@gmail.com)
+- 🌟 My hobbies are hiking 🥾, biking 🚴, snowboarding 🏂, golf 🏌️, and music 🎸
+- 🐶 I have five pets 🐕 🦮 🐈 🐈‍⬛ 🦎
+- 🌐 My personal website is under development
+- 📫 Send me and email at [pehmann1@gmail.com](pehmann1@gmail.com)
