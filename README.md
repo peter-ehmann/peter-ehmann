@@ -8,4 +8,4 @@
 - 🍎  Rutgers University (2018, Applied Physiology MS)
 - 🍏  University of Colorado (2015, Integrative Physiology BA)
 - 🌟  My hobbies are hiking 🥾, biking 🚴, snowboarding 🏂, golf 🏌️, and music 🎸
-- 🐶  I have five pets 🐕 🦮 🐈 🐈‍⬛ 🦎
+- 🐶  I have five pets: Unis 🐕, Ultra 🦮, Callie 🐈, Willow 🐈‍⬛, and Tiger 🦎
