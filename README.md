@@ -1,7 +1,7 @@
 👋 Hi, I’m Peter Ehmann @peter-ehmann
 
 - 👀  My work is primarily data science projects in precision medicine and biomedical research
-- 🌱  I'm primarily an R programmer with some Python experience
+- 🌱  I am a R programmer with some Python experience
 - 🧠  My personal coding projects are usually practical to my daily life (financial planning)
 - 🏢  Regeneron Pharmaceuticals (since 2020)
 - 🍎  Rutgers University (2020, Data Science MS)
