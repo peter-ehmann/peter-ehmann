@@ -9,5 +9,3 @@
 - 🍏  University of Colorado (2015, Integrative Physiology BA)
 - 🌟  My hobbies are hiking 🥾, biking 🚴, snowboarding 🏂, golf 🏌️, and music 🎸
 - 🐶  I have five pets 🐕 🦮 🐈 🐈‍⬛ 🦎
-- 🌐  My personal website is under development
-- 📫  Send me and email at [pehmann1@gmail.com](pehmann1@gmail.com)
