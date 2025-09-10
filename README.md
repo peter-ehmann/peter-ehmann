@@ -1,16 +1,11 @@
-## Hi there 👋
+👋 Hi, I’m Peter Ehmann @peter-ehmann
 
-<!--
-**peter-ehmann/peter-ehmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in data science projects in precision medicine and biomedical research
+- 🌱 I'm primarily an R programmer with some Python experience
+- 🏢 Employer: Regeneron Pharmaceuticals (since 2020)
+- 🍎 Graduate: Rutgers University (2020, Data Science MS)
+- 🍎 Graduate: Rutgers University (2018, Applied Physiology MS)
+- 🍏 Undergrad: University of Colorado (2015, Integrative Physiology BA)
+- 🌟 Hobbies: Hiking 🥾, Biking 🚴, Snowboarding 🏂, Golf 🏌️, Music 🎸
+- 🐶 Pets: 🐕 🦮 🐈 🐈‍⬛ 🦎
+- 📫 How to reach me: send an email to [pehmann1@gmail.com](pehmann1@gmail.com)
