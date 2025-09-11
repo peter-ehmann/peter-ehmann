@@ -16,8 +16,12 @@
 |-----------------------------------------|--------------------|
 | nfl-picks                               | Under Developement |
 | finances                                | Under Development  |
-| westernStates100-simulation             | Complete           |
+| westernStates100-simulation             | Minor Edits Needed |
 | posit-conf-2025                         | Not Started        |
+| personal-website                        | Not Started        |
+| flatiron-coding-test                    | Not Started        |
+| mixed-effects-erp                       | Not Started        |
+| gas-mileage                             | Not Started        |
 | crossValidation-ridgeRegression         | Being Updated      |
 | renal-analysis_systems-physiology-S2019 | Re-start           |
 | blood-pressure                          | Re-start           |
