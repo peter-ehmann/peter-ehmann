@@ -9,3 +9,16 @@
 - 🍏  University of Colorado (2015, Integrative Physiology BA)
 - 🌟  My hobbies are hiking 🥾, biking 🚴, snowboarding 🏂, golf 🏌️, and music 🎸
 - 🐶  I have five pets: Unis 🐕, Ultra 🦮, Callie 🐈, Willow 🐈‍⬛, and Tiger 🦎
+
+| Repository                              | Status             |
+|-----------------------------------------|--------------------|
+| nfl-picks                               | Under Developement |
+| finances                                | Under Development  |
+| westernStates100-simulation             | Complete           |
+| posit-conf-2025                         | Not Started        |
+| crossValidation-ridgeRegression         | Being Updated      |
+| renal-analysis_systems-physiology-S2019 | Re-start           |
+| blood-pressure                          | Re-start           |
+| cardiotocography                        | Re-start           |
+| nyTimes-textAnalysis                    | Re-start           |
+| data-wrangling-S2019                    | Re-start           |
