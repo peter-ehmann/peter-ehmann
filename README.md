@@ -1,4 +1,4 @@
-👋 Hi, I’m Peter Ehmann @peter-ehmann
+##### 👋 Hi, I’m Peter Ehmann @peter-ehmann
 
 - 👀  My work is primarily data science projects in precision medicine and biomedical research
 - 🌱  I am a R programmer with some Python experience
