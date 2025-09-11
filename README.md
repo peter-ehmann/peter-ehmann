@@ -12,20 +12,20 @@
 
 #### Project Tracking
 
-| Repository                              | Status              |
-|-----------------------------------------|---------------------|
-| nfl-picks                               | Under Development   |
-| finances                                | Under Development   |
-| peter-ehmann.github.io                  | Under Development   |
-| westernStates100-simulation             | Minor Edits Needed  |
-| posit-conf-2025                         | Not Started         |
-| flatiron-coding-test                    | Not Started         |
-| gas-mileage                             | Not Started         |
-| mixed-effects-erp                       | Not Started         |
-| stock-CRBM                              | Not Started         |
-| crossValidation-ridgeRegression         | Being Updated       |
-| renal-analysis_systems-physiology-S2019 | Needs to be Updated |
-| blood-pressure                          | Needs to be Updated |
-| cardiotocography                        | Needs to be Updated |
-| nyTimes-textAnalysis                    | Needs to be Updated |
-| data-wrangling-S2019                    | Needs to be Updated |
+| Repository                              | Status              | Type               |
+|-----------------------------------------|---------------------|--------------------|
+| nfl-picks                               | Under Development   | Personal           |
+| finances                                | Under Development   | Personal           |
+| peter-ehmann.github.io                  | Under Development   | Professional       |
+| westernStates100-simulation             | Minor Edits Needed  | Personal           |
+| posit-conf-2025                         | Not Started         | Professional       |
+| flatiron-coding-test                    | Not Started         | Professional       |
+| gas-mileage                             | Not Started         | Personal           |
+| mixed-effects-erp                       | Not Started         | Grad School        |
+| stock-CRBM                              | Not Started         | Personal           |
+| crossValidation-ridgeRegression         | Being Updated       | Grad School        |
+| renal-analysis_systems-physiology-S2019 | Needs to be Updated | Grad School        |
+| blood-pressure                          | Needs to be Updated | Grad School        |
+| cardiotocography                        | Needs to be Updated | Grad School        |
+| nyTimes-textAnalysis                    | Needs to be Updated | Grad School        |
+| data-wrangling-S2019                    | Needs to be Updated | Grad School        |
