@@ -17,8 +17,9 @@
 | nfl-picks                               | Under Development        | Personal                |
 | finances                                | Under Development        | Personal                |
 | peter-ehmann.github.io                  | Under Development        | Professional            |
+| peter-ehmann                            | Living Document          | Professional            |
 | westernStates100-simulation             | Minor Edits Needed       | Personal                |
-| posit-conf-2025                         | Not Started              | Professional            |
+| posit-conf-2025                         | Repo Initiated           | Professional            |
 | flatiron-coding-test                    | Not Started              | Professional            |
 | gas-mileage                             | Not Started              | Personal                |
 | mixed-effects-erp                       | Not Started              | Grad School             |
