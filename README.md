@@ -1,8 +1,8 @@
 ##### 👋 Hi, I’m Peter Ehmann @peter-ehmann
 
-- 👀  My profressional work involves data science projects for precision medicine and biomedical research
-- 🌱  I am primarily a R programmer, but I have experience coding in Python
-- 🧠  My personal coding projects are usually practical to my daily life or for learning something new
+- 👀  My profressional work incorporates data science for precision medicine and biomedical research
+- 🌱  I am primarily a R programmer, but also have experience coding in Python
+- 🧠  My personal coding projects are practical to my daily life or for learning something new
 - 🏢  Regeneron Pharmaceuticals (since 2020)
 - 🍎  Rutgers University (2020, Data Science MS)
 - 🍎  Rutgers University (2018, Applied Physiology MS)
@@ -12,21 +12,20 @@
 
 #### Project Tracking
 
-| Repository                                             | Status                   | Type                    |
-|--------------------------------------------------------|--------------------------|-------------------------|
-| [nfl-picks](https://github.com/peter-ehmann/nfl-picks) | Under Development        | Personal                |
-| finances                                               | Under Development        | Personal                |
-| peter-ehmann.github.io                                 | Under Development        | Professional            |
-| peter-ehmann                                           | Living Document          | Professional            |
-| westernStates100-simulation                            | Minor Edits Needed       | Personal                |
-| posit-conf-2025                                        | Repo Initiated           | Professional            |
-| flatiron-coding-test                                   | Not Started              | Professional            |
-| gas-mileage                                            | Not Started              | Personal                |
-| mixed-effects-erp                                      | Not Started              | Grad School             |
-| stock-CRBM                                             | Not Started              | Personal                |
-| crossValidation-ridgeRegression                        | Being Updated            | Grad School             |
-| renal-analysis_systems-physiology-S2019                | Needs to be Updated      | Grad School             |
-| blood-pressure                                         | Needs to be Updated      | Grad School             |
-| cardiotocography                                       | Needs to be Updated      | Grad School             |
-| nyTimes-textAnalysis                                   | Needs to be Updated      | Grad School             |
-| data-wrangling-S2019                                   | Needs to be Updated      | Grad School             |
+| Repository                                                                                | Site                                                                               | Status              | Type         |
+|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------|--------------|
+| [Posit Conference 2025](https://github.com/peter-ehmann/posit-conf-2025)                  | [posit-conf-2025](https://peter-ehmann.github.io/posit-conf-2025/)                 | Under Development   | Professional |
+| [Analysis of NFL Betting Lines](https://github.com/peter-ehmann/nfl-picks)                | Pending                                                                            | Under Development   | Personal     |
+| [Financial Planning](https://github.com/peter-ehmann/finances)                            | No - Private                                                                       | Under Development   | Personal     |
+| [Western States 100 Lottery](https://github.com/peter-ehmann/westernStates100-simulation) | [westernStates100-simulation](peter-ehmann.github.io/westernStates100-simulation/) | Under Development   | Personal     |
+| [Cross Validation](https://github.com/peter-ehmann/crossValidation-ridgeRegression)       | Pending                                                                            | Under Development   | Grad School  |
+| [Personal Website](https://github.com/peter-ehmann/peter-ehmann.github.io)                | [peter-ehmann.github.io](peter-ehmann.github.io/)                                  | Living Document     | Professional |
+| [Personal README](https://github.com/peter-ehmann/peter-ehmann)                           | You're reading it :)                                                               | Living Document     | Professional |
+| Flatiron Job Application Test                                                             | n/a                                                                                | Not Started         | Professional |
+| Gasoline Purchase Trends                                                                  | n/a                                                                                | Not Started         | Personal     |
+| Mixed Effects Modelling                                                                   | n/a                                                                                | Not Started         | Grad School  |
+| renal-analysis_systems-physiology-S2019                                                   | No                                                                                 | Needs to be Updated | Grad School  |
+| blood-pressure                                                                            | No                                                                                 | Needs to be Updated | Grad School  |
+| cardiotocography                                                                          | No                                                                                 | Needs to be Updated | Grad School  |
+| nyTimes-textAnalysis                                                                      | No                                                                                 | Needs to be Updated | Grad School  |
+| data-wrangling-S2019                                                                      | No                                                                                 | Needs to be Updated | Grad School  |
